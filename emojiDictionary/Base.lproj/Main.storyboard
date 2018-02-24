@@ -74,6 +74,7 @@
                     </view>
                     <connections>
                         <outlet property="bigEmojiLabel" destination="rKL-WL-Sha" id="yq5-oY-IQi"/>
+                        <outlet property="definitionLabel" destination="Bjn-Rn-3lY" id="GCB-N8-KMQ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6hy-i2-JhZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
