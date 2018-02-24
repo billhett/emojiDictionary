@@ -58,11 +58,11 @@
 			children = (
 				A9F413C02040C00E009EE0EA /* AppDelegate.swift */,
 				A9F413C22040C00E009EE0EA /* ViewController.swift */,
+				A9F413D22041C0B1009EE0EA /* DefinitionViewController.swift */,
 				A9F413C42040C00E009EE0EA /* Main.storyboard */,
 				A9F413C72040C00E009EE0EA /* Assets.xcassets */,
 				A9F413C92040C00E009EE0EA /* LaunchScreen.storyboard */,
 				A9F413CC2040C00E009EE0EA /* Info.plist */,
-				A9F413D22041C0B1009EE0EA /* DefinitionViewController.swift */,
 			);
 			path = emojiDictionary;
 			sourceTree = "<group>";
